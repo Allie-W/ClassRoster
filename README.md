@@ -1,4 +1,4 @@
-# ClassRoster
+# Class Roster
 Application used to maintain a current roster of students within a given course.
 <br><br>
 
