@@ -28,9 +28,3 @@ You must write a program containing two classes (i.e., Student and Roster). The 
   <li>Demonstrate the program’s required functionality by adding a main() function in main.cpp, which will contain the required function calls</li>
 </ul>
 <br><br>
-
-
-<h2>The Solution</h2>
-<ul>
-  </li></li>
-</ul>
